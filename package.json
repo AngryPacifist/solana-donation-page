@@ -1,0 +1,19 @@
+{
+  "name": "solana-donation-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@solana/pay": "^0.2.5",
+    "@solana/web3.js": "^1.93.1",
+    "bignumber.js": "^9.1.2",
+    "express": "^4.19.2",
+    "qrcode": "^1.5.3"
+  }
+}
